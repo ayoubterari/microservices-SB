@@ -15,9 +15,11 @@ The architecture includes two microservices:
 
 The Service Registry keeps track of all the microservices and their statuses. It provides a system-wide view of all active microservices.
 
+![microservices](https://github.com/ayoubterari/microservices-Spring-boot/assets/65574293/f14dfcfc-d10c-4efb-bea0-8166915082bb)
+
+
+
 # API Gateway
 
 The API Gateway manages all the requests to the microservices. It acts as a single entry point for all requests, which are then routed to the appropriate microservices.
-
-![microservices](https://github.com/ayoubterari/microservices-Spring-boot/assets/65574293/f14dfcfc-d10c-4efb-bea0-8166915082bb)
 
