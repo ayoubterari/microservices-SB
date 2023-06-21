@@ -9,7 +9,26 @@ This project demonstrates the creation and implementation of a complete microser
 The architecture includes two microservices:
 
 1 -  Department Service : Handles operations related to departments.
+
+
+
+
+![image](https://github.com/ayoubterari/microservices-Spring-boot/assets/65574293/0244aefb-d52f-49dc-8527-ad29fd77bba7)
+
+
+
+
+
+
 2 -  User Service: Manages user-related operations. Each user is associated with a department.
+
+
+
+
+![image](https://github.com/ayoubterari/microservices-Spring-boot/assets/65574293/36406105-462e-441b-855d-9a63c83e3243)
+
+
+
 
 # Service Registry
 
