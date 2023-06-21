@@ -42,3 +42,7 @@ The Service Registry keeps track of all the microservices and their statuses. It
 
 The API Gateway manages all the requests to the microservices. It acts as a single entry point for all requests, which are then routed to the appropriate microservices.
 
+
+
+![image](https://github.com/ayoubterari/microservices-Spring-boot/assets/65574293/a046e19e-f3a8-49e2-ae16-99725fd4dbb9)
+
